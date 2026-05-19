@@ -1,0 +1,267 @@
+Round 0
+Round 1
+Round 2
+Round 3
+Round 4
+Round 5
+Round 6
+Round 7
+Round 8
+Round 9
+Round 10
+Round 11
+Round 12
+Round 13
+Round 14
+Round 15
+Round 16
+Round 17
+Round 18
+Round 19
+Round 20
+Round 21
+Round 22
+Round 23
+Round 24
+Round 25
+Round 26
+Round 27
+Round 28
+Round 29
+Round 30
+Round 31
+Round 32
+Round 33
+Round 34
+Round 35
+Round 36
+Round 37
+Round 38
+Round 39
+Round 40
+Round 41
+Round 42
+Round 43
+Round 44
+Round 45
+Round 46
+Round 47
+Round 48
+Round 49
+Round 50
+Round 51
+Round 52
+Round 53
+Round 54
+Round 55
+Round 56
+Round 57
+Round 58
+Round 59
+Round 60
+Round 61
+Round 62
+Round 63
+Round 64
+Round 65
+Round 66
+Round 67
+Round 68
+Round 69
+Round 70
+Round 71
+Round 72
+Round 73
+Round 74
+Round 75
+Round 76
+Round 77
+Round 78
+Round 79
+Round 80
+Round 81
+Round 82
+Round 83
+Round 84
+Round 85
+Round 86
+Round 87
+Round 88
+Round 89
+Round 90
+Round 91
+Round 92
+Round 93
+Round 94
+Round 95
+Round 96
+Round 97
+Round 98
+Round 99
+Round 100
+Round 101
+Round 102
+Round 103
+Round 104
+Round 105
+Round 106
+Round 107
+Round 108
+Round 109
+Round 110
+Round 111
+Round 112
+Round 113
+Round 114
+Round 115
+Round 116
+Round 117
+Round 118
+Round 119
+Round 120
+Round 121
+Round 122
+Round 123
+Round 124
+Round 125
+Round 126
+Round 127
+Round 128
+Round 129
+Round 130
+Round 131
+Round 132
+Round 133
+Round 134
+Round 135
+Round 136
+Round 137
+Round 138
+Round 139
+Round 140
+Round 141
+Round 142
+Round 143
+Round 144
+Round 145
+Round 146
+Round 147
+Round 148
+Round 149
+Round 150
+Round 151
+Round 152
+Round 153
+Round 154
+Round 155
+Round 156
+Round 157
+The solution has been written to /home/poom/catkin_ws/src/DMAPF/examples/lak303d/r600/answer.lp
+Abstract : UCS_CENTRAL
+Solver   : ASP
+Time     : 130555
+Makespan : 2629
+SoC      : 159340
+[31m================================================================================REQUIRED process [lak303d_n14784_r600_s/s2-3] has died!
+process has finished cleanly
+log file: /home/poom/.ros/log/917fe192-6b70-11ed-9f00-e510fd8f7711/lak303d_n14784_r600_s-s2-3*.log
+Initiating shutdown!
+================================================================================[0m
+... logging to /home/poom/.ros/log/917fe192-6b70-11ed-9f00-e510fd8f7711/roslaunch-Precision-3630-Tower-2684780.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/poom/catkin_ws/src/DMAPF/examples/lak303d/r600/lak303d_n14784_r600.launch
+[1mstarted roslaunch server http://Precision-3630-Tower:43333/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /lak303d_n14784_r600_s/answer: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/areas: 240
+ * /lak303d_n14784_r600_s/links: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/problem: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s1/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s10/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s11/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s12/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s13/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s14/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s15/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s16/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s2/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s3/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s4/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s5/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s6/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s7/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s8/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/s9/domain: /home/poom/catkin...
+ * /lak303d_n14784_r600_s/solvers: 16
+ * /rosdistro: noetic
+ * /rosversion: 1.15.14
+
+NODES
+  /lak303d_n14784_r600_s/
+    s1 (dmapf/solver)
+    s10 (dmapf/solver)
+    s11 (dmapf/solver)
+    s12 (dmapf/solver)
+    s13 (dmapf/solver)
+    s14 (dmapf/solver)
+    s15 (dmapf/solver)
+    s16 (dmapf/solver)
+    s2 (dmapf/solver)
+    s3 (dmapf/solver)
+    s4 (dmapf/solver)
+    s5 (dmapf/solver)
+    s6 (dmapf/solver)
+    s7 (dmapf/solver)
+    s8 (dmapf/solver)
+    s9 (dmapf/solver)
+
+auto-starting new master
+[1mprocess[master]: started with pid [2684788][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/poom/catkin_ws/src/DMAPF/examples/lak303d/r600/lak303d_n14784_r600.launch http://localhost:11311
+[1msetting /run_id to 917fe192-6b70-11ed-9f00-e510fd8f7711[0m
+[1mprocess[rosout-1]: started with pid [2684798][0m
+started core service [/rosout]
+[1mprocess[lak303d_n14784_r600_s/s1-2]: started with pid [2684805][0m
+[1mprocess[lak303d_n14784_r600_s/s2-3]: started with pid [2684806][0m
+[1mprocess[lak303d_n14784_r600_s/s3-4]: started with pid [2684810][0m
+[1mprocess[lak303d_n14784_r600_s/s4-5]: started with pid [2684816][0m
+[1mprocess[lak303d_n14784_r600_s/s5-6]: started with pid [2684822][0m
+[1mprocess[lak303d_n14784_r600_s/s6-7]: started with pid [2684826][0m
+[1mprocess[lak303d_n14784_r600_s/s7-8]: started with pid [2684834][0m
+[1mprocess[lak303d_n14784_r600_s/s8-9]: started with pid [2684840][0m
+[1mprocess[lak303d_n14784_r600_s/s9-10]: started with pid [2684846][0m
+[1mprocess[lak303d_n14784_r600_s/s10-11]: started with pid [2684852][0m
+[1mprocess[lak303d_n14784_r600_s/s11-12]: started with pid [2684858][0m
+[1mprocess[lak303d_n14784_r600_s/s12-13]: started with pid [2684864][0m
+[1mprocess[lak303d_n14784_r600_s/s13-14]: started with pid [2684870][0m
+[1mprocess[lak303d_n14784_r600_s/s14-15]: started with pid [2684876][0m
+[1mprocess[lak303d_n14784_r600_s/s15-16]: started with pid [2684884][0m
+[1mprocess[lak303d_n14784_r600_s/s16-17]: started with pid [2684888][0m
+[lak303d_n14784_r600_s/s16-17] killing on exit
+[lak303d_n14784_r600_s/s15-16] killing on exit
+[lak303d_n14784_r600_s/s14-15] killing on exit
+[lak303d_n14784_r600_s/s13-14] killing on exit
+[lak303d_n14784_r600_s/s12-13] killing on exit
+[lak303d_n14784_r600_s/s11-12] killing on exit
+[lak303d_n14784_r600_s/s10-11] killing on exit
+[lak303d_n14784_r600_s/s9-10] killing on exit
+[lak303d_n14784_r600_s/s8-9] killing on exit
+[lak303d_n14784_r600_s/s7-8] killing on exit
+[lak303d_n14784_r600_s/s6-7] killing on exit
+[lak303d_n14784_r600_s/s5-6] killing on exit
+[lak303d_n14784_r600_s/s4-5] killing on exit
+[lak303d_n14784_r600_s/s3-4] killing on exit
+[lak303d_n14784_r600_s/s2-3] killing on exit
+[lak303d_n14784_r600_s/s1-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

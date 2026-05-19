@@ -1,0 +1,14 @@
+int8 type               # 0 - negotiate, 1 - reject, 2 - confirm
+int32 area_from
+int32 area_to
+Tier[] tiers            # For Migrate type 0 request
+int32[] canceled_robots # For Migrate type 1 request
+int32[] rejected_robots # For Migrate type 1 request
+Transit[] transits      # For Migrate type 2 request
+---
+int32 area_from
+int32 area_to
+Dist[] dists            # For Migrate type 0 response
+int32[] canceled_robots # For Migrate type 1 response
+int32[] rejected_robots # For Migrate type 1 response
+Transit[] transits      # For Migrate type 2 response

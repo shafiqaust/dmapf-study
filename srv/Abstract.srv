@@ -1,0 +1,8 @@
+int8 type                 # 0 - centralized planning request, 1 - centralized planning response, 2 - debug
+int32 solver              # For Abstract type 0 request
+Aim[] aims                # For Abstract type 0 request
+Area[] num_nodes          # For Abstract type 0 & 2 requests
+Next[] nexts              # For Abstract type 1 request
+Areas[] steps_num_robots  # For Abstract type 2 request
+int64 time_total          # For Abstract type 2 request
+---

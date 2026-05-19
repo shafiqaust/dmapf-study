@@ -1,0 +1,216 @@
+Round 0
+Round 1
+Round 2
+Round 3
+Round 4
+Round 5
+Round 6
+Round 7
+Round 8
+Round 9
+Round 10
+Round 11
+Round 12
+Round 13
+Round 14
+Round 15
+Round 16
+Round 17
+Round 18
+Round 19
+Round 20
+Round 21
+Round 22
+Round 23
+Round 24
+Round 25
+Round 26
+Round 27
+Round 28
+Round 29
+Round 30
+Round 31
+Round 32
+Round 33
+Round 34
+Round 35
+Round 36
+Round 37
+Round 38
+Round 39
+Round 40
+Round 41
+Round 42
+Round 43
+Round 44
+Round 45
+Round 46
+Round 47
+Round 48
+Round 49
+Round 50
+Round 51
+Round 52
+Round 53
+Round 54
+Round 55
+Round 56
+Round 57
+Round 58
+The solution has been written to /home/poom/catkin_ws/src/DMAPF/examples/lak303d/r200/answer.lp
+Abstract : UCS_CENTRAL
+Solver   : ASP
+Time     : 21496
+Makespan : 993
+SoC      : 44209
+[31m================================================================================REQUIRED process [lak303d_n14784_r200_s/s6-7] has died!
+process has finished cleanly
+log file: /home/poom/.ros/log/e3f42c64-6b4b-11ed-9f00-e510fd8f7711/lak303d_n14784_r200_s-s6-7*.log
+Initiating shutdown!
+================================================================================[0m
+... logging to /home/poom/.ros/log/e3f42c64-6b4b-11ed-9f00-e510fd8f7711/roslaunch-Precision-3630-Tower-2306820.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/poom/catkin_ws/src/DMAPF/examples/lak303d/r200/lak303d_n14784_r200.launch
+[1mstarted roslaunch server http://Precision-3630-Tower:44145/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /lak303d_n14784_r200_s/answer: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/areas: 240
+ * /lak303d_n14784_r200_s/links: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/problem: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s1/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s10/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s11/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s12/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s13/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s14/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s15/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s16/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s17/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s18/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s19/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s2/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s20/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s21/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s22/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s23/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s24/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s25/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s26/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s27/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s28/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s3/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s4/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s5/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s6/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s7/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s8/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/s9/domain: /home/poom/catkin...
+ * /lak303d_n14784_r200_s/solvers: 28
+ * /rosdistro: noetic
+ * /rosversion: 1.15.14
+
+NODES
+  /lak303d_n14784_r200_s/
+    s1 (dmapf/solver)
+    s10 (dmapf/solver)
+    s11 (dmapf/solver)
+    s12 (dmapf/solver)
+    s13 (dmapf/solver)
+    s14 (dmapf/solver)
+    s15 (dmapf/solver)
+    s16 (dmapf/solver)
+    s17 (dmapf/solver)
+    s18 (dmapf/solver)
+    s19 (dmapf/solver)
+    s2 (dmapf/solver)
+    s20 (dmapf/solver)
+    s21 (dmapf/solver)
+    s22 (dmapf/solver)
+    s23 (dmapf/solver)
+    s24 (dmapf/solver)
+    s25 (dmapf/solver)
+    s26 (dmapf/solver)
+    s27 (dmapf/solver)
+    s28 (dmapf/solver)
+    s3 (dmapf/solver)
+    s4 (dmapf/solver)
+    s5 (dmapf/solver)
+    s6 (dmapf/solver)
+    s7 (dmapf/solver)
+    s8 (dmapf/solver)
+    s9 (dmapf/solver)
+
+auto-starting new master
+[1mprocess[master]: started with pid [2306828][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/poom/catkin_ws/src/DMAPF/examples/lak303d/r200/lak303d_n14784_r200.launch http://localhost:11311
+[1msetting /run_id to e3f42c64-6b4b-11ed-9f00-e510fd8f7711[0m
+[1mprocess[rosout-1]: started with pid [2306838][0m
+started core service [/rosout]
+[1mprocess[lak303d_n14784_r200_s/s1-2]: started with pid [2306845][0m
+[1mprocess[lak303d_n14784_r200_s/s2-3]: started with pid [2306846][0m
+[1mprocess[lak303d_n14784_r200_s/s3-4]: started with pid [2306848][0m
+[1mprocess[lak303d_n14784_r200_s/s4-5]: started with pid [2306854][0m
+[1mprocess[lak303d_n14784_r200_s/s5-6]: started with pid [2306860][0m
+[1mprocess[lak303d_n14784_r200_s/s6-7]: started with pid [2306868][0m
+[1mprocess[lak303d_n14784_r200_s/s7-8]: started with pid [2306871][0m
+[1mprocess[lak303d_n14784_r200_s/s8-9]: started with pid [2306880][0m
+[1mprocess[lak303d_n14784_r200_s/s9-10]: started with pid [2306884][0m
+[1mprocess[lak303d_n14784_r200_s/s10-11]: started with pid [2306892][0m
+[1mprocess[lak303d_n14784_r200_s/s11-12]: started with pid [2306898][0m
+[1mprocess[lak303d_n14784_r200_s/s12-13]: started with pid [2306901][0m
+[1mprocess[lak303d_n14784_r200_s/s13-14]: started with pid [2306908][0m
+[1mprocess[lak303d_n14784_r200_s/s14-15]: started with pid [2306914][0m
+[1mprocess[lak303d_n14784_r200_s/s15-16]: started with pid [2306918][0m
+[1mprocess[lak303d_n14784_r200_s/s16-17]: started with pid [2306924][0m
+[1mprocess[lak303d_n14784_r200_s/s17-18]: started with pid [2306932][0m
+[1mprocess[lak303d_n14784_r200_s/s18-19]: started with pid [2306936][0m
+[1mprocess[lak303d_n14784_r200_s/s19-20]: started with pid [2306944][0m
+[1mprocess[lak303d_n14784_r200_s/s20-21]: started with pid [2306948][0m
+[1mprocess[lak303d_n14784_r200_s/s21-22]: started with pid [2306954][0m
+[1mprocess[lak303d_n14784_r200_s/s22-23]: started with pid [2306960][0m
+[1mprocess[lak303d_n14784_r200_s/s23-24]: started with pid [2306964][0m
+[1mprocess[lak303d_n14784_r200_s/s24-25]: started with pid [2306970][0m
+[1mprocess[lak303d_n14784_r200_s/s25-26]: started with pid [2306976][0m
+[1mprocess[lak303d_n14784_r200_s/s26-27]: started with pid [2306982][0m
+[1mprocess[lak303d_n14784_r200_s/s27-28]: started with pid [2306986][0m
+[1mprocess[lak303d_n14784_r200_s/s28-29]: started with pid [2306990][0m
+[lak303d_n14784_r200_s/s28-29] killing on exit
+[lak303d_n14784_r200_s/s27-28] killing on exit
+[lak303d_n14784_r200_s/s26-27] killing on exit
+[lak303d_n14784_r200_s/s25-26] killing on exit
+[lak303d_n14784_r200_s/s24-25] killing on exit
+[lak303d_n14784_r200_s/s23-24] killing on exit
+[lak303d_n14784_r200_s/s22-23] killing on exit
+[lak303d_n14784_r200_s/s21-22] killing on exit
+[lak303d_n14784_r200_s/s20-21] killing on exit
+[lak303d_n14784_r200_s/s19-20] killing on exit
+[lak303d_n14784_r200_s/s18-19] killing on exit
+[lak303d_n14784_r200_s/s17-18] killing on exit
+[lak303d_n14784_r200_s/s16-17] killing on exit
+[lak303d_n14784_r200_s/s15-16] killing on exit
+[lak303d_n14784_r200_s/s14-15] killing on exit
+[lak303d_n14784_r200_s/s13-14] killing on exit
+[lak303d_n14784_r200_s/s12-13] killing on exit
+[lak303d_n14784_r200_s/s11-12] killing on exit
+[lak303d_n14784_r200_s/s10-11] killing on exit
+[lak303d_n14784_r200_s/s9-10] killing on exit
+[lak303d_n14784_r200_s/s8-9] killing on exit
+[lak303d_n14784_r200_s/s7-8] killing on exit
+[lak303d_n14784_r200_s/s6-7] killing on exit
+[lak303d_n14784_r200_s/s5-6] killing on exit
+[lak303d_n14784_r200_s/s4-5] killing on exit
+[lak303d_n14784_r200_s/s3-4] killing on exit
+[lak303d_n14784_r200_s/s2-3] killing on exit
+[lak303d_n14784_r200_s/s1-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
